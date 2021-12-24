@@ -1,0 +1,4 @@
+Nombre: Felipe , Apellido: Quiceno , Premio: 600 USD
+Nombre: Andres , Apellido: Romero , Premio: 300 USD
+Nombre: Alexander , Apellido: Barrientos , Premio: 0 USD
+Nombre: Fernando , Apellido: Quiceno , Premio: 0 USD
